@@ -8,4 +8,4 @@ ssh2-python==0.17.0
 threadpool==1.3.2
 sqlalchemy==1.3.10
 limnoria==2019.10.22
-flask==0.12.2
+flask==1.0
